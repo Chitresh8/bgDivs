@@ -1,0 +1,105 @@
+.bodyClass {
+  background-color: #2e151b;
+  color: #da7b93;
+}
+
+.mainTitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 5px;
+  border-bottom: 1px solid #da7b93;
+  width: 100%;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.headerClass {
+  border: 1px solid #1c3334;
+  background-color: #25274d;
+  color: #d8e33b;
+  font-weight: bold;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.hthreeClass {
+  border-bottom: 1px solid #d8e33b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+.main-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.main-div {
+  background-color: #000288;
+  color: #e85a4f;
+  padding: 10px;
+  border: 1px solid #e85a4f;
+  border-radius: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.main-div .firstSection .firstSectionHone {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  letter-spacing: 3px;
+  border: 1px solid #da7b93;
+  border-radius: 20px;
+  padding: 15px;
+}
+.main-div .firstSection .firstSectionHtwo {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 3px;
+  border: 1px solid #da7b93;
+  border-radius: 20px;
+  padding: 15px;
+  margin-top: 5px;
+}
+.secondSection {
+  font-family: cursive;
+}
+.firstParagraph {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.secondOrderList {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 55px;
+}
+.hoverOne:hover {
+  color: teal;
+  cursor: pointer;
+}
+.hoverTwo:hover {
+  color: cadetblue;
+  cursor: pointer;
+}
+.hoverThree:hover {
+  color: maroon;
+  cursor: pointer;
+}
+.hoverFour:hover {
+  color: rebeccapurple;
+  cursor: pointer;
+}
+.hoverFive:hover {
+  color: mediumorchid;
+  cursor: pointer;
+}
