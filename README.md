@@ -1,4 +1,2 @@
 
-
-
 background color Division
