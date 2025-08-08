@@ -1,1 +1,1 @@
-background color Divisions
+background color Division
